@@ -1,7 +1,7 @@
 # IBM-Machine_Learning-Project
 Capstone project of IBM's Python Data Science certificate course.
 
-## **Problem Statement**
+### **Problem Statement**
 
 The people of New Yorker use the 311 system to report complaints about the non-emergency problems to local authorities. Various agencies in New York are assigned these problems. The Department of Housing Preservation and Development of New York City is the agency that processes 311 complaints that are related to housing and buildings.
 
@@ -19,7 +19,8 @@ The agency needs answers to several questions. The answers to those questions mu
 
 4 - Can a predictive model be built for a future prediction of the possibility of complaints of the type that you have identified in response to question 1?
 
-****Datasets**
+### **Datasets**
+
 Two datasets from the Department of Housing Preservation and Development of New York City are needed to address their problems.
 
 1 - 311 complaint dataset
